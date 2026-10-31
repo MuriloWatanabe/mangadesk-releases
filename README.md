@@ -8,9 +8,9 @@ Este repositório guarda apenas os instaladores e as atualizações do app.
 
 | Sistema | Download |
 |---|---|
-| Windows 10/11 (64 bits) | [**Baixar o instalador (.exe)**](https://github.com/MuriloWatanabe/mangadesk-releases/releases/download/v0.3.6/MangaDesk_0.3.6_x64-setup.exe) |
-| Ubuntu, Debian, Linux Mint e derivados | [**Baixar o pacote .deb**](https://github.com/MuriloWatanabe/mangadesk-releases/releases/download/v0.3.6/MangaDesk_0.3.6_amd64.deb) |
-| Fedora, RHEL, openSUSE e derivados | [**Baixar o pacote .rpm**](https://github.com/MuriloWatanabe/mangadesk-releases/releases/download/v0.3.6/MangaDesk-0.3.6-1.x86_64.rpm) |
+| Windows 10/11 (64 bits) | [**Baixar o instalador (.exe)**](https://github.com/MuriloWatanabe/mangadesk-releases/releases/latest/download/MangaDesk-windows-x64-setup.exe) |
+| Ubuntu, Debian, Linux Mint e derivados | [**Baixar o pacote .deb**](https://github.com/MuriloWatanabe/mangadesk-releases/releases/latest/download/MangaDesk-linux-amd64.deb) |
+| Fedora, RHEL, openSUSE e derivados | [**Baixar o pacote .rpm**](https://github.com/MuriloWatanabe/mangadesk-releases/releases/latest/download/MangaDesk-linux-x86_64.rpm) |
 
 Outras versões estão na [página de versões](https://github.com/MuriloWatanabe/mangadesk-releases/releases).
 
